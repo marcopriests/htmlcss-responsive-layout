@@ -27,4 +27,14 @@
     .recipe-title {
         font-size: 20px;
     }
+
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes li{
+        display: inline-block;
+        width: calc(100%/3);
+    }
 }
