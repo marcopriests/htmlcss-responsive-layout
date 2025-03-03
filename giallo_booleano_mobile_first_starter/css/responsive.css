@@ -1,7 +1,7 @@
 /* Soluzione qui */
 /* MOBILE */
 @media screen and (min-width: 480px) {
-    .recipe-video{
+    .recipe-video {
         height: 100%;
     }
 
@@ -40,12 +40,12 @@
         font-size: 20px;
     }
 
-    .quick-notes ul{
+    .quick-notes ul {
         display: flex;
         flex-wrap: wrap;
     }
 
-    .quick-notes li{
+    .quick-notes li {
         display: inline-block;
         width: calc(100%/3);
     }
@@ -58,7 +58,7 @@
         display: block;
     }
 
-    .clearfix img{
+    .clearfix img {
         float: left;
         margin-right: 10px;
     }
@@ -66,15 +66,15 @@
 
 /* DESKTOP */
 @media screen and (min-width: 992px) {
-    .recipe-title{
+    .recipe-title {
         font-size: 25px;
     }
 
-    .quick-notes ul{
+    .quick-notes ul {
         display: block;
     }
 
-    .quick-notes li{
+    .quick-notes li {
         display: block;
         width: 100%;
     }
