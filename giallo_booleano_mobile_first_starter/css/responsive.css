@@ -10,6 +10,14 @@
     }
 }
 
+/* BONUS BIG MOBILE */
+@media screen and (min-width: 576px) {
+    .clearfix img {
+        float: left;
+        margin-right: 10px;
+    }
+}
+
 /* TABLET */
 @media screen and (min-width: 768px) {
     #topbar {
