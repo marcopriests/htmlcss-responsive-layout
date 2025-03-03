@@ -52,3 +52,10 @@
         margin-right: 10px;
     }
 }
+
+/* DESKTOP */
+@media screen and (min-width: 992px) {
+    .recipe-title{
+        font-size: 30px;
+    }
+}
