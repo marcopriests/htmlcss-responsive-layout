@@ -19,4 +19,8 @@
     .container {
         padding: 30px;
     }
+
+    .recipe-origin {
+        display: inline-block;
+    }
 }
