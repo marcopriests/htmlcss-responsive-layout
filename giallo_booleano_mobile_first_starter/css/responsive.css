@@ -56,7 +56,7 @@
 /* DESKTOP */
 @media screen and (min-width: 992px) {
     .recipe-title{
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .quick-notes ul{
@@ -65,5 +65,15 @@
 
     .quick-notes li{
         display: block;
+        width: 100%;
     }
+
+    .recipe-card {
+        display: flex;
+    }
+
+    .recipe-video {
+        width: 70%;
+    }
+
 }
