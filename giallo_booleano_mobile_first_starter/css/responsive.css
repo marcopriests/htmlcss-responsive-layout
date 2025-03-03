@@ -42,4 +42,8 @@
         width: calc(100% / 5);
         margin: 0 5px;
     }
+
+    .ads {
+        display: block;
+    }
 }
