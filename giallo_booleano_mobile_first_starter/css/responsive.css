@@ -76,4 +76,9 @@
         width: 70%;
     }
 
+    .social-networks .label {
+        display: inline;
+        font-size: 10px;
+    }
+
 }
