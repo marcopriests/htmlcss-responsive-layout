@@ -58,4 +58,12 @@
     .recipe-title{
         font-size: 30px;
     }
+
+    .quick-notes ul{
+        display: block;
+    }
+
+    .quick-notes li{
+        display: block;
+    }
 }
